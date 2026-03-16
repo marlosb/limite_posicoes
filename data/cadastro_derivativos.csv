@@ -1,0 +1,5 @@
+company_name,ticker,industry,total_shares,market,exchange,country,source_b3_ticker,source_company,underlying_asset,strike,asset_type
+Northwind Traders CALL APR/2026,NRTWD01,Derivatives,0,Options,B3,Brazil,ABEV3,Ambev,NRTW3,15.00,OPTION
+Northwind Traders PUT APR/2026,NRTWP01,Derivatives,0,Options,B3,Brazil,ABEV3,Ambev,NRTW3,15.00,OPTION
+Fourth Coffee CALL APR/2026,FRTHD01,Derivatives,0,Options,B3,Brazil,BPAC11,BTG Pactual,FRTH3,20.00,OPTION
+Fourth Coffee PUT APR/2026,FRTHP01,Derivatives,0,Options,B3,Brazil,BPAC11,BTG Pactual,FRTH3,20.00,OPTION

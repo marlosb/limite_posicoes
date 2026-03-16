@@ -1,0 +1,15 @@
+company_name,ticker,industry,total_shares,market,exchange,country,source_b3_ticker,source_company,asset_type
+Adventure Works,ADWK3,Energy,13000000000,Equities,B3,Brazil,PETR4,Petrobras,EQUITY
+Contoso,CNTO3,Financials,10000000000,Equities,B3,Brazil,ITUB4,Itaú Unibanco,EQUITY
+Fabrikam,FBKM3,Materials,4500000000,Equities,B3,Brazil,VALE3,Vale,EQUITY
+Fourth Coffee,FRTH3,Financials,2800000000,Equities,B3,Brazil,BPAC11,BTG Pactual,EQUITY
+Northwind Traders,NRTW3,Consumer Staples,15800000000,Equities,B3,Brazil,ABEV3,Ambev,EQUITY
+Proseware,PRSW3,Industrials,4200000000,Equities,B3,Brazil,WEGE3,WEG,EQUITY
+Tailspin Toys,TLSP3,Financials,10100000000,Equities,B3,Brazil,BBDC4,Bradesco,EQUITY
+Wide World Importers,WWIM3,Conglomerates,8900000000,Equities,B3,Brazil,ITSA4,Itaúsa,EQUITY
+Wingtip Toys,WGTP3,Financials,2800000000,Equities,B3,Brazil,BBAS3,Banco do Brasil,EQUITY
+Woodgrove Bank,WDGV3,Communication Services,1700000000,Equities,B3,Brazil,VIVT3,Telefônica Brasil,EQUITY
+Contoso Offices FII,CTSO11,Real Estate Funds,215000000,Funds,B3,Brazil,HGLG11,CSHG Logistica FII,FUND
+Fabrikam Renda FII,FBKM11,Real Estate Funds,298000000,Funds,B3,Brazil,MXRF11,Maxi Renda FII,FUND
+Northwind Shopping FII,NRTW11,Real Estate Funds,182000000,Funds,B3,Brazil,XPML11,XP Malls FII,FUND
+Woodgrove Prime FII,WDGV11,Real Estate Funds,124000000,Funds,B3,Brazil,KNRI11,Kinea Renda Imobiliaria FII,FUND

@@ -1,0 +1,14 @@
+# Ignore all hidden directories (folders starting with ".")
+.*/
+
+# Python caches and tooling caches
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.tox/
+.nox/
+.pyre/
+.cache/
+.ipynb_checkpoints/
